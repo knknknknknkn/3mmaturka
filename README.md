@@ -1,5 +1,5 @@
 # 3mmaturka
-zbieramy tu rozwiazania do matur z infy jako baze danych do sprzedania nizszym klasom jak juz zdamy
+rozwiazania do wszelkich zadan z matur jakby
 # nazwy
 dzielmy na foldery prosze  
   
