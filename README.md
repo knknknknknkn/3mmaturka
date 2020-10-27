@@ -1,5 +1,5 @@
 # 3mmaturka
-rozwiazania do wszelkich zadan z matur jakby
+rozwiazania do wszelkich zadan z matur
 # nazwy
 podzial na foldery wedlug poszczegolnych arkuszy  
 foldery nazywamy [rok][poziom] np 2016PR, 2015PP wiadomo o co chodzi  
